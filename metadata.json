@@ -1,0 +1,6 @@
+{
+  "name": "FlavorCraft",
+  "description": "Discover delicious recipes, plan meals, create custom dishes, and track ingredients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
